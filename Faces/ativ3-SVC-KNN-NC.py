@@ -6,9 +6,9 @@ Created on Thu Jan  9 09:11:54 2020
 @author: alextcarvalho
 
 Testando o melhor KNN, e enfiando um NearestCentroid em quem tá errado
-KNC
+SVC
+KNN
 DecisionTree
-SVM
 """
 
 import pandas as pd
